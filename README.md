@@ -17,7 +17,7 @@ INHOUD<br>
 2. SERVER-SIDE DATAPACKS <br>
 <br><br>
 AANBEVOLEN CLIENT-SIDE MODS <br>
-Je kan zelf mods/shaders/resource packs toevoegen met bijvoorbeeld CurseForge of Modrinth (of je eigen folder skills). Note: de server staat op 26.2, let op dat de client-side mods ook op 26.2 staan. Ik heb ook een modpack gemaakt met alles wat in dit document genoemd wordt: SkellyBusinessPack1.0.mrpack.
+Je kan zelf mods/shaders/resource packs toevoegen met bijvoorbeeld CurseForge of Modrinth (of je eigen folder skills). Note: de server staat op 26.2, let op dat de client-side mods ook op 26.2 staan. Ik heb ook een modpack gemaakt met alles wat in dit document genoemd wordt: SkellyBusinessPack1.0.mrpack (als je op de filenaam klikt en dan bij de file op de drie puntjes rechts bovenin klikt dan staat er een download optie).
 <br><br>
 De enige mod die echt verplicht is om volledige functionaliteit te hebben op de server is 
 Simple Voice Chat. Deze is (zowel client-side als server-side) nodig om in-game te chatten via  microfoon met andere players. Zonder de mod kun je voor de rest nog steeds spelen op de server.<br>

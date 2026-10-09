@@ -25,7 +25,7 @@ Simple Voice Chat. Deze is (zowel client-side als server-side) nodig om in-game 
   > curseforge link: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 <br><br>
 Render distance mods<br>
--	Bobby: als je hogere render distance wil dan de server
+-	Bobby: als je hogere render distance wil dan de server<br>
 -	Voxy: laat extreme render distances toe zonder je computer te slopen. Note: stel wel de settings goed in; hoe hoger ‘Pixels^2 of subdivision size’, hoe minder zwaar voor je computer
 <br><br>
 Performance mods<br>
@@ -36,7 +36,7 @@ Performance mods<br>
 -	FerriteCore<br>
 -	ImmediatelyFast<br>
 -	Ixeris<br>
--	Lithium<br>
+-	Lithium
 <br><br>
 Extra mods (slice-of-life)<br>
 -	Chat Heads: laat de head van de player zien naast de username in de chat<br>
@@ -44,7 +44,7 @@ Extra mods (slice-of-life)<br>
 -	LambDynamicLights: licht blokken geven al licht wanneer je ze in je hand hebt<br>
 -	Zoomify: inzoomen door op c te duwen<br>
 -	Skin Shuffle: als je meerdere skins hebt kun je in-game switchen<br>
--	No Chat Reports: (privacy mod) zorgt ervoor dat Mojang/Microsoft niet je chatberichten kan tracken<br>
+-	No Chat Reports: (privacy mod) zorgt ervoor dat Mojang/Microsoft niet je chatberichten kan tracken
 <br><br>
 Resource packs<br>
 op vanilla tweaks staat een lijst aan resource packs waarmee ik speel: https://vanillatweaks.net/picker/resource-packs/

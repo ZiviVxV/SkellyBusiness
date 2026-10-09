@@ -2,11 +2,12 @@
 
 <img width="1056" height="80" alt="image" src="https://github.com/user-attachments/assets/a838a681-418a-44f7-98c4-3d664a7d202f" />
 <img width="896" height="550" alt="image" src="https://github.com/user-attachments/assets/0109d0d3-832b-4a30-a186-cd64971a80e0" />
-BY: ZIVIVXV
-<br>
-INHOUD
+BY: ZIVIVXV<br>
+zie de PDF voor een mooiere overview
+<br><br>
+INHOUD<br>
 1. AANBEVOLEN CLIENT-SIDE MODS <br>
-   a) SIMPLE VOICE CHAT <br>
+<&nbsp> a) SIMPLE VOICE CHAT <br>
    b) RENDER DISTANCE MODS <br>
    c) PERFORMANCE MODS <br>
    d) EXTRA MODS (SLICE-OF-LIFE) <br> 

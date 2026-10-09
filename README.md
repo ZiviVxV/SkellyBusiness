@@ -17,7 +17,8 @@ INHOUD<br>
 2. SERVER-SIDE DATAPACKS <br>
 <br><br>
 AANBEVOLEN CLIENT-SIDE MODS <br>
-Je kan zelf mods/shaders/resource packs toevoegen met bijvoorbeeld CurseForge of Modrinth (of je eigen folder skills). Note: de server staat op 26.2, let op dat de client-side mods ook op 26.2 staan. Ik heb ook een modpack gemaakt met alles wat in dit document genoemd wordt: SkellyBusinessPack1.0.mrpack (als je op de filenaam klikt en op de nieuwe pagina op de drie puntjes rechts bovenin klikt dan staat er een download optie).
+Je kan zelf mods/shaders/resource packs toevoegen met bijvoorbeeld CurseForge of Modrinth (of je eigen folder skills). Note: de server staat op 26.2, let op dat de client-side mods ook op 26.2 staan. Ik heb ook een modpack gemaakt met alles wat in dit document genoemd wordt: SkellyBusinessPack1.0.mrpack voor Modrinth en SkellyBusinessPack1.0.zip voor CurseForge. Deze modpack is hetzelfde als de modrinth mudpack, maar heeft Distant Horizons ipv. Voxy (doet praktisch gezien hetzelfde). Op de modpack staan de vanillatweaks resource packs er niet direct op, dus je moet ze zelf toevoegen door op https://vanillatweaks.net/picker/resource-packs/ de packs te downloaden en de .zip file dan in Minecraft bij resource packs toevoegen in de settings (options).
+<br> Note: om een file van GIT te downloaden moet je op de filenaam klikken, en dan op de nieuwe pagina op de drie puntjes rechts bovenin, op het burgermenu staat dan een download optie).
 <br><br>
 De enige mod die echt verplicht is om volledige functionaliteit te hebben op de server is 
 Simple Voice Chat. Deze is (zowel client-side als server-side) nodig om in-game te chatten via  microfoon met andere players. Zonder de mod kun je voor de rest nog steeds spelen op de server.<br>

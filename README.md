@@ -29,22 +29,22 @@ Render distance mods<br>
 -	Voxy: laat extreme render distances toe zonder je computer te slopen. Note: stel wel de settings goed in; hoe hoger ‘Pixels^2 of subdivision size’, hoe minder zwaar voor je computer
 <br><br>
 Performance mods<br>
--	Better Block Entities
--	Dynamic FPS
--	Entity Culling
--	More Culling
--	FerriteCore
--	ImmediatelyFast
--	Ixeris
--	Lithium
+-	Better Block Entities<br>
+-	Dynamic FPS<br>
+-	Entity Culling<br>
+-	More Culling<br>
+-	FerriteCore<br>
+-	ImmediatelyFast<br>
+-	Ixeris<br>
+-	Lithium<br>
 <br><br>
 Extra mods (slice-of-life)<br>
--	Chat Heads: laat de head van de player zien naast de username in de chat
--	Facebar: laat heads van players zien ipv. een kleur
--	LambDynamicLights: licht blokken geven al licht wanneer je ze in je hand hebt
--	Zoomify: inzoomen door op c te duwen
--	Skin Shuffle: als je meerdere skins hebt kun je in-game switchen
--	No Chat Reports: (privacy mod) zorgt ervoor dat Mojang/Microsoft niet je chatberichten kan tracken
+-	Chat Heads: laat de head van de player zien naast de username in de chat<br>
+-	Facebar: laat heads van players zien ipv. een kleur<br>
+-	LambDynamicLights: licht blokken geven al licht wanneer je ze in je hand hebt<br>
+-	Zoomify: inzoomen door op c te duwen<br>
+-	Skin Shuffle: als je meerdere skins hebt kun je in-game switchen<br>
+-	No Chat Reports: (privacy mod) zorgt ervoor dat Mojang/Microsoft niet je chatberichten kan tracken<br>
 <br><br>
 Resource packs<br>
 op vanilla tweaks staat een lijst aan resource packs waarmee ik speel: https://vanillatweaks.net/picker/resource-packs/

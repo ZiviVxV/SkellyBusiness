@@ -16,6 +16,25 @@ INHOUD<br>
 &nbsp g) COMPATABILITY MODS <br>
 2. SERVER-SIDE DATAPACKS <br>
 <br><br>
+RAM EN GARBAGE COLLECTION <br>
+Minecraft heeft een skill issue wat betreft RAM gebruik, dus voor als je het nog niet wist: MC gebruikt standaard maar 2GB of 4GB RAM terwjl de meeste computers meer kunnen geven. Om dit aan te passen kun je: <br>
+- in de MC launcher: installations > de installation die je gebruikt (moet 26.3 zijn) > de drie bolletjes > edit > more options > JVM arguments:
+	Pas -Xmx4G aan naar bijvoorbeeld -Xmx8GB of hoger (let op dat je niet meer 
+geeft dan de computer aan kan!). <br>
+- in Modrinth: settings > synced settings > Java and memory > memory allocation:
+  Pas de slider aan, ik zou het een aantal GB onder het maximum h
+  houden om memory overload te voorkomen. <br> 
+- in CurseForge: settings > game specific > Minecraft > Java settings > allocated 
+    memory: Pas de slider aan, ik zou het een aantal GB onder het 
+    maximum houden om memory overload te voorkomen.
+<br> <br> 
+Voor garbage collection gebruiken Modrinth en volgens mij ook CurseForge de standard G1, tenminste volgens de Distant Horizons mod. Dit kan worden aangepast door -XX:+UseZGC toe te voegen bij de Java arguments: <br>
+- in Modrinth: (vlak onder de memory allocation) settings > synced settings > 
+  Java and memory > Java arguments <br>
+- in CurseForge: (iets verder onder de memory allocation) settings > game specific >  
+   Minecraft > Java settings > Default Additional Arguments
+  
+<br><br>
 AANBEVOLEN CLIENT-SIDE MODS <br>
 Je kan zelf mods/shaders/resource packs toevoegen met bijvoorbeeld CurseForge of Modrinth (of je eigen folder skills). Note: de server staat op 26.2, let op dat de client-side mods ook op 26.2 staan. Ik heb ook een modpack gemaakt met alles wat in dit document genoemd wordt: ModrinthSkellyBizzPack26.3.mrpack voor Modrinth en CurseforgeSkellyBusinessPack26.3.zip voor CurseForge. Het kan zijn dat er een waarschuwing is dat sommige mods/resource packs niet van modrinth/curseforge zijn.
 <br> Note: om een file van GIT te downloaden moet je op de filenaam klikken, en dan op de nieuwe pagina op de drie puntjes rechts bovenin, op het burgermenu staat dan een download optie).

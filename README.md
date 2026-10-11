@@ -47,7 +47,7 @@ Simple Voice Chat. Deze is (zowel client-side als server-side) nodig om in-game 
 <br><br>
 Render distance mods<br>
 -	Bobby: als je hogere render distance wil dan de server<br>
--	Voxy: laat extreme render distances toe zonder je computer te slopen. Note: stel wel de settings goed in; hoe hoger ‘Pixels^2 of subdivision size’, hoe minder zwaar voor je computer
+-	Distant Horizons: laat extreme render distances toe zonder je computer te slopen. 
 <br><br>
 Performance mods<br>
 -	Better Block Entities<br>

@@ -43,6 +43,7 @@ De enige mod die echt verplicht is om volledige functionaliteit te hebben op de 
 Simple Voice Chat. Deze is (zowel client-side als server-side) nodig om in-game te chatten via  microfoon met andere players. Zonder de mod kun je voor de rest nog steeds spelen op de server.<br>
   > modrinth link: https://modrinth.com/plugin/simple-voice-chat<br>
   > curseforge link: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+
 <br><br>
 Render distance mods<br>
 -	Bobby: als je hogere render distance wil dan de server<br>
